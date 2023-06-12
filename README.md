@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0767ab&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Erick+Cassoli+ou+para+outros+Ydr0l;Eu+Tenho+18+anos;Estou+Cursando+tecnólogo+em+ADS;Seja+Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErickCassoli&bg_color=0d1117&color=0767ab&line=2798e8&point=2030e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=ErickCassoli&theme=discord)
 
 <div align="center">  
