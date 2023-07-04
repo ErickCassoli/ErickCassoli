@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0767ab&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0767ab&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Erick+Cassoli;Eu+Tenho+18+anos;Estou+Cursando+tecnólogo+em+ADS;Seja+Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0767ab&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Erick+Cassoli;Eu+Tenho+19+anos;Estou+Cursando+tecnólogo+em+ADS;Seja+Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ErickCassoli&theme=discord)
 
