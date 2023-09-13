@@ -16,7 +16,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/LordyDeep)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&vCenter=true&logo=gmail&logoColor=white)](mailto:erick.mcassoli@gmail.com)
-[![GmailWrite](https://readme-typing-svg.herokuapp.com/?color=0767ab&vCenter=true&size=20&lines=Erick.mcassoli@Gmail.com)]
+[![Gmail](https://readme-typing-svg.herokuapp.com/?color=0767ab&vCenter=true&size=20&lines=Erick.mcassoli@Gmail.com)]
 
 
  
