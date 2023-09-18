@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0767ab&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Erick+Cassoli;Eu+Tenho+19+anos;Estou+Cursando+tecnólogo+em+ADS;Seja+Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ErickCassoli&theme=discord)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErickCassoli&show_icons=true&count_private=true&hide_border=true&title_color=0767ab&icon_color=0767ab&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
