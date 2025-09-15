@@ -1,38 +1,84 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0767ab&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0767ab&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Erick+Cassoli;Desenvolvedor+Back-End;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=👋Olá,+Eu+sou+o+Erick+Cassoli;)](https://git.io/typing-svg)
 
+<p align="center">
+  💻 <b>Desenvolvedor Back-End Python</b><br/>
+  🤖 Entusiasta de <b>Machine Learning</b> e <b>IA Generativa (GenAI)</b><br/>
+  🚀 Focado em criar APIs escaláveis, automações inteligentes e soluções em nuvem
+</p>
+
+
+## 🚀 Sobre mim
+
+- **Back-End com Python** → APIs REST usando Django REST e FastAPI, com autenticação JWT, versionamento e documentação.  
+- **Machine Learning** → modelos de previsão, análise de dados financeiros, indicadores técnicos e backtests.  
+- **IA Generativa (GenAI)** → integração de LLMs e ferramentas de NLP em aplicações back-end para automação de documentos e chatbots inteligentes.  
+- **Integrações em Nuvem** (GCP/Azure) → pipelines de dados, automações e monitoramento de serviços.  
+- **Automação corporativa** → scripts e sistemas internos que reduziram custos e retrabalho.  
+- **Boas práticas** → Gitflow, CI/CD, code review e arquitetura limpa.  
+
+
+
+## 📊 Estatísticas do GitHub
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErickCassoli&show_icons=true&count_private=true&hide_border=true&title_color=0767ab&icon_color=0767ab&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCassoli&layout=compact&hide_border=true&title_color=0767ab&text_color=0767ab&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErickCassoli&show_icons=true&count_private=true&hide_border=true&title_color=0767ab&icon_color=0767ab&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCassoli&layout=compact&hide_border=true&title_color=0767ab&text_color=0767ab&bg_color=0d1117" alt="langs"/>
 </div>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KraiErick)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-cassoli)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eriquee_k4s/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/LordyDeep)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&vCenter=true&logo=gmail&logoColor=white)](mailto:erick.mcassoli@gmail.com)
 
-### Tecnologias que eu domino:
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="fastapi" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img align="center" alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img align="center" alt="GenAI" src="https://img.shields.io/badge/Generative_AI-00C853?style=for-the-badge&logo=openai&logoColor=white" />
 
-### Tecnologias que estou estudando:
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+## 🧩 Projetos em Destaque
 
----
+- 🧠 [**MT5BOT**](https://github.com/ErickCassoli/MT5BOT) → Bot de trading em Python, arquitetura modular + ML aplicado a finanças.  
+- 🎮 [**Monster-Battle**](https://github.com/ErickCassoli/Monster-Battle) → Projeto Python com testes automatizados e design patterns.  
+- ⚙️ [**APIII**](https://github.com/ErickCassoli/APIII) → API CRUD com Django, autenticação e boas práticas.  
+- 📌 [**Gitflow-and-Good-Pratices**](https://github.com/ErickCassoli/Gitflow-and-Good-Pratices) → Guia de fluxo Git e convenções de código.  
+
+
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-<br><p align="centre"><b>Contador de visitante</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/ErickCassoli/count.svg" /></p> 
-<br>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mongodb,docker,gcp,git,github,linux,vscode" />
 </div>
+
+
+
+## 🤖 Machine Learning & GenAI
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FECA1B?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</div>
+
+- **Modelos preditivos** para análise de séries temporais e trading.  
+- **Pipelines de ML** com pré-processamento, treino e avaliação.  
+- **GenAI aplicado** → integração de LLMs em APIs, automação de relatórios e sistemas de suporte inteligente.  
+
+
+
+## 🌐 Contatos
+<div align="center">
+  <a href="https://www.linkedin.com/in/erick-cassoli">
+    <img src="https://img.shields.io/badge/LinkedIn-0767ab?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:erick.mcassoli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5511943294097" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/KraiErick">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/eriquee_k4s/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0767ab&height=120&section=footer"/>
