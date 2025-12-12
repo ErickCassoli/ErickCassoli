@@ -20,13 +20,6 @@
 
 
 
-## 📊 Estatísticas do GitHub
-<div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErickCassoli&show_icons=true&count_private=true&hide_border=true&title_color=0767ab&icon_color=0767ab&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCassoli&layout=compact&hide_border=true&title_color=0767ab&text_color=0767ab&bg_color=0d1117" alt="langs"/>
-</div>
-
-
 
 ## 🧩 Projetos em Destaque
 
