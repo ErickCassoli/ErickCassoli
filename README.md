@@ -1,67 +1,101 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0767ab&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0767ab&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=👋Olá,+Eu+sou+o+Erick+Cassoli;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá,+eu+sou+o+Erick+Cassoli;Back-end+Python+|+FastAPI+|+Django;GenAI+e+Machine+Learning+aplicados)](https://git.io/typing-svg)
 
 <p align="center">
-  💻 <b>Desenvolvedor Back-End Python</b><br/>
-  🤖 Entusiasta de <b>Machine Learning</b> e <b>IA Generativa (GenAI)</b><br/>
-  🚀 Focado em criar APIs escaláveis, automações inteligentes e soluções em nuvem
+  💻 <b>Back-end Python</b> (FastAPI / Django) • APIs REST • Automações • Integrações<br/>
+  🤖 <b>GenAI & Machine Learning</b> aplicados (chat, NLP, séries temporais, trading)<br/>
+  ☁️ <b>Cloud</b> (GCP/Azure) • Docker • CI/CD • Observabilidade
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/erick-cassoli">
+    <img src="https://img.shields.io/badge/LinkedIn-0767ab?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:erick.mcassoli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/11fC5dBDdi4AUVn9H2rJYEI8BkN9IHZzc/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/CV-111111?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
 
-## 🚀 Sobre mim
+---
 
-- **Back-End com Python** → APIs REST usando Django REST e FastAPI, com autenticação JWT, versionamento e documentação.  
-- **Machine Learning** → modelos de previsão, análise de dados financeiros, indicadores técnicos e backtests.  
-- **IA Generativa (GenAI)** → integração de LLMs e ferramentas de NLP em aplicações back-end para automação de documentos e chatbots inteligentes.  
-- **Integrações em Nuvem** (GCP/Azure) → pipelines de dados, automações e monitoramento de serviços.  
-- **Automação corporativa** → scripts e sistemas internos que reduziram custos e retrabalho.  
-- **Boas práticas** → Gitflow, CI/CD, code review e arquitetura limpa.  
+## 🎯 Foco atual
 
+- **Back-end Python**: APIs (FastAPI/Django), autenticação, versionamento, documentação e integração com serviços.
+- **GenAI/LLMs**: orquestração de prompts, providers (mock/local/cloud), métricas e automações.
+- **ML aplicado**: pipelines de features, treino/validação e integração do modelo no produto.
 
+---
 
+## ⭐ Projetos principais (3)
 
-## 🧩 Projetos em Destaque
+### 🗣️ English-IA — Backend para prática de conversação + quizzes + flashcards (SM-2)
+API em **FastAPI** voltada à prática de inglês: controla sessões de diálogo, gera **quizzes contextualizados**, cria **flashcards com SM-2** e expõe KPIs para dashboards.
 
-- 🧠 [**MT5BOT**](https://github.com/ErickCassoli/MT5BOT) → Bot de trading em Python, arquitetura modular + ML aplicado a finanças.  
-- 🎮 [**Monster-Battle**](https://github.com/ErickCassoli/Monster-Battle) → Projeto Python com testes automatizados e design patterns.  
-- ⚙️ [**APIII**](https://github.com/ErickCassoli/APIII) → API CRUD com Django, autenticação e boas práticas.  
-- 📌 [**Gitflow-and-Good-Pratices**](https://github.com/ErickCassoli/Gitflow-and-Good-Pratices) → Guia de fluxo Git e convenções de código.  
+**Destaques**
+- Sessões de conversa → detecção de erros → geração de quizzes/flashcards → relatório final
+- **LLM modular** (ex.: mock/local/cloud) com configuração via API
+- **Migrations + seed**, Docker/Compose, testes e qualidade (Ruff/Black/pytest)
 
+**Stack**: FastAPI • SQLite • Alembic • Docker • Pytest  
+**Repo**: https://github.com/ErickCassoli/English-IA
 
+---
+
+### 📈 MT5BOT — Framework modular para trading (Python + MetaTrader 5 + ML)
+Framework para operar em **MT5** com estratégias plugáveis, **gestão de risco** e **filtro de ML (XGBoost)**, com logs estruturados e execução contínua (24/7).
+
+**Destaques**
+- Estratégias: trend/breakout/scalper/ensemble
+- Gestão de risco: ATR SL/TP, parcial a 1R, trailing
+- Dataset builder + treino/uso de modelo com threshold por probabilidade
+
+**Stack**: Python • MetaTrader 5 • XGBoost • Logs JSON  
+**Repo**: https://github.com/ErickCassoli/MT5BOT
+
+---
+
+### 🎮 Monster-Battle — Console game para demonstrar testes e design patterns
+Projeto em Python para batalhas por turno (PvP/PvE) com foco em **organização de código**, **patterns** e **testes**.
+
+**Destaques**
+- Arquitetura modular e extensível (ex.: Factory/Controller/Template Method)
+- Testes automatizados e estrutura clara por módulos
+
+**Stack**: Python • Pytest • Design Patterns  
+**Repo**: https://github.com/ErickCassoli/Monster-Battle
+
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mongodb,docker,gcp,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mongodb,docker,gcp,azure,git,github,linux,vscode" />
 </div>
-
-
-
-## 🤖 Machine Learning & GenAI
 
 <div align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FECA1B?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </div>
 
-- **Modelos preditivos** para análise de séries temporais e trading.  
-- **Pipelines de ML** com pré-processamento, treino e avaliação.  
-- **GenAI aplicado** → integração de LLMs em APIs, automação de relatórios e sistemas de suporte inteligente.  
+---
 
+## 🧪 Como eu trabalho (engenharia)
 
+- **Código limpo e modular** (arquitetura por camadas, contratos claros, baixo acoplamento)
+- **Qualidade**: testes automatizados, lint/format, CI/CD quando aplicável
+- **Documentação**: READMEs práticos (quickstart), exemplos de uso e decisões de arquitetura
+- **Segurança**: validações, tratamento de erros, cuidado com segredos (env/CI)
 
-## 🌐 Contatos
+---
+
+## 🌐 Contatos (extras)
 <div align="center">
-  <a href="https://www.linkedin.com/in/erick-cassoli">
-    <img src="https://img.shields.io/badge/LinkedIn-0767ab?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:erick.mcassoli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://wa.me/5511943294097" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
@@ -73,5 +107,4 @@
   </a>
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0767ab&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0767ab&height=120&section=footer"/>
